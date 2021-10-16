@@ -1,4 +1,5 @@
 asdasdasd
+<<<<<<< Updated upstream
 MMMMMMMMMMMMMMMM
 asdasdasdasd
 asdasdasdasdas
@@ -16,3 +17,7 @@ wr
 qwe
 s
 wad
+=======
+ ASDASDASD
+ ASDASDS
+>>>>>>> Stashed changes
