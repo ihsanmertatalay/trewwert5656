@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Ciklet",
+        "price":0.1,
+        "image":"https://www.karlidagmarket.com.tr/falim-tekli-sakiz-atistirmalik-742-68-O.jpg"
+    },
+    {
+        "id":2,
+        "title":"Dondurma",
+        "price":2,
+        "image":"https://www.ozkanlarpastanesi.com/wp-content/uploads/2020/07/K%C3%BClah-Dondurma.jpg"
+    },
+    {
+        "id":3,
+        "title":"Karpuz",
+        "price":20,
+        "image":"https://d2uiaykj5yb3c0.cloudfront.net/tahtakale/img/p/30befd0e-d5c9-486c-9fac-bbc3d7e3706b.jpg"
+    },
+    {
+        "id":4,
+        "title":"Portakal",
+        "price":3,
+        "image":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30092100/30092100_0_MC/8804879761458_1528879608508.jpg"
+    },  
+    {
+        "id":5,
+        "title":"top",
+        "price":50
+    }
+
+]
